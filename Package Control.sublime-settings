@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AlignTab",
 		"Package Control",
 		"Theme - Spacegray"
 	]
