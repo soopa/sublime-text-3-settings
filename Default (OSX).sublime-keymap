@@ -1,0 +1,3 @@
+[
+  { "keys": ["super+option+shift+a"], "command": "align_tab", "args" : {"user_input" : ":/f"} },
+]
